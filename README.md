@@ -1,6 +1,6 @@
 # Magento 2 WhatsApp Share
 
-WhatsApp is one of the popular messaging apps. It is quite popular due to its free availability and easy user interface. To take advantage of such a popular platform in an E-commerce business is effective! As a result, Meetanshi has developed **[Magento 2 WhatsApp Share ](https://meetanshi.com/magento-2-whatsapp-share.html)*** extension for Magento 2 store owners. The module allows visitors to share the products with their friends and family via WhatsApp instantly!
+WhatsApp is one of the popular messaging apps. It is quite popular due to its free availability and easy user interface. To take advantage of such a popular platform in an E-commerce business is effective! As a result, Meetanshi has developed ***[Magento 2 WhatsApp Share ](https://meetanshi.com/magento-2-whatsapp-share.html)*** extension for Magento 2 store owners. The module allows visitors to share the products with their friends and family via WhatsApp instantly!
 
 
 Promote the store products free of cost! No extra efforts needed to reach out to potential customers. Use Meetanshi's Magento 2 WhatsApp Share extension and let the store visitors share the products. The people with whom the products are shared will be tempted to visit your store and know about the product that their loved ones shared with them!
